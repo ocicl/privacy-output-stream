@@ -4,6 +4,6 @@ A Common Lisp output stream that masks secret strings
 
 |---------+----------------------------------------------------------|
 | source  | git:https://github.com/atgreen/privacy-output-stream.git |
-| commit  | 45aee1e                                                  |
+| commit  | 46b353f                                                  |
 | systems | privacy-output-stream                                    |
 |---------+----------------------------------------------------------|
